@@ -1,0 +1,1113 @@
+{
+    "mockup": {
+        "controls": {
+            "control": [
+                {
+                    "ID": "7",
+                    "typeID": "HRule",
+                    "zOrder": "0",
+                    "w": "1145",
+                    "measuredW": "100",
+                    "measuredH": "10",
+                    "x": "85",
+                    "y": "426"
+                },
+                {
+                    "ID": "9",
+                    "typeID": "Paragraph",
+                    "zOrder": "1",
+                    "w": "502",
+                    "h": "99",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "86",
+                    "y": "141",
+                    "properties": {
+                        "text": "Dupinder Singh\nSoftware Engineer \n",
+                        "size": "28"
+                    }
+                },
+                {
+                    "ID": "12",
+                    "typeID": "Paragraph",
+                    "zOrder": "2",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "96",
+                    "y": "206",
+                    "properties": {
+                        "size": "15",
+                        "text": "collect all the pieces before solving the puzzle "
+                    }
+                },
+                {
+                    "ID": "14",
+                    "typeID": "Paragraph",
+                    "zOrder": "3",
+                    "w": "432",
+                    "h": "55",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "132",
+                    "y": "268",
+                    "properties": {
+                        "text": "\n[stackoverflow.com/users/5108695/dupinder-singh](https://stackoverflow.com/users/5108695/dupinder-singh)",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "17",
+                    "typeID": "Icon",
+                    "zOrder": "4",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "87",
+                    "y": "331",
+                    "properties": {
+                        "icon": {
+                            "ID": "github",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "18",
+                    "typeID": "Paragraph",
+                    "zOrder": "5",
+                    "w": "334",
+                    "h": "49",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "129",
+                    "y": "314",
+                    "properties": {
+                        "text": "\n[github.com/dupinder](https://github.com/dupinder)\n",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "20",
+                    "typeID": "Icon",
+                    "zOrder": "6",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "91",
+                    "y": "284",
+                    "properties": {
+                        "icon": {
+                            "ID": "stack-overflow",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "21",
+                    "typeID": "Icon",
+                    "zOrder": "7",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "684",
+                    "y": "337",
+                    "properties": {
+                        "icon": {
+                            "ID": "envelope",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "22",
+                    "typeID": "Paragraph",
+                    "zOrder": "8",
+                    "w": "320",
+                    "h": "32",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "725",
+                    "y": "337",
+                    "properties": {
+                        "text": "dupinderdhiman5@gmail.com",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "24",
+                    "typeID": "Icon",
+                    "zOrder": "9",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "91",
+                    "y": "379",
+                    "properties": {
+                        "icon": {
+                            "ID": "map-marker",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "25",
+                    "typeID": "Paragraph",
+                    "zOrder": "10",
+                    "w": "367",
+                    "h": "38",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "129",
+                    "y": "379",
+                    "properties": {
+                        "text": "#146 W.No 01 Lakhnaur Mohali Punjab, India",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "26",
+                    "typeID": "Icon",
+                    "zOrder": "11",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "684",
+                    "y": "379",
+                    "properties": {
+                        "icon": {
+                            "ID": "mobile",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "27",
+                    "typeID": "Paragraph",
+                    "zOrder": "12",
+                    "h": "32",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "725",
+                    "y": "382",
+                    "properties": {
+                        "text": "+91 9803549919",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "30",
+                    "typeID": "Paragraph",
+                    "zOrder": "13",
+                    "w": "319",
+                    "h": "56",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "720",
+                    "y": "272",
+                    "properties": {
+                        "text": "\n [linkedin.com/in/dupindersingh](https://www.linkedin.com/in/dupindersingh/)\n",
+                        "size": "18"
+                    }
+                },
+                {
+                    "ID": "31",
+                    "typeID": "Icon",
+                    "zOrder": "14",
+                    "measuredW": "32",
+                    "measuredH": "32",
+                    "x": "686",
+                    "y": "288",
+                    "properties": {
+                        "icon": {
+                            "ID": "linkedin",
+                            "size": "medium"
+                        }
+                    }
+                },
+                {
+                    "ID": "32",
+                    "typeID": "Image",
+                    "zOrder": "15",
+                    "w": "200",
+                    "h": "200",
+                    "measuredW": "240",
+                    "measuredH": "240",
+                    "x": "1019",
+                    "y": "140",
+                    "properties": {
+                        "src": {
+                            "ID": "460D45F1-46B8-4FCE-8947-8B5616BD6F2C"
+                        }
+                    }
+                },
+                {
+                    "ID": "36",
+                    "typeID": "Paragraph",
+                    "zOrder": "16",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "135",
+                    "y": "456",
+                    "properties": {
+                        "size": "24",
+                        "text": "[CatalystOne Info Solution](https://www.catalystone.com/)",
+                        "underline": "true"
+                    }
+                },
+                {
+                    "ID": "37",
+                    "typeID": "Image",
+                    "zOrder": "17",
+                    "w": "33",
+                    "h": "30",
+                    "measuredW": "225",
+                    "measuredH": "225",
+                    "x": "91",
+                    "y": "454",
+                    "properties": {
+                        "src": {
+                            "ID": "E183D381-FBE6-45B6-8C8E-DF795C85105F"
+                        }
+                    }
+                },
+                {
+                    "ID": "38",
+                    "typeID": "Paragraph",
+                    "zOrder": "18",
+                    "w": "502",
+                    "h": "23",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "500",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Sr. Software Developer (05/2020 - Present)_{color}"
+                    }
+                },
+                {
+                    "ID": "39",
+                    "typeID": "Paragraph",
+                    "zOrder": "19",
+                    "w": "194",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "415",
+                    "y": "460",
+                    "properties": {
+                        "size": "18",
+                        "text": "Mohali, India"
+                    }
+                },
+                {
+                    "ID": "40",
+                    "typeID": "Paragraph",
+                    "zOrder": "20",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "644",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:red}_Software Developer (05/2018 - 05/2020)_{color}"
+                    }
+                },
+                {
+                    "ID": "43",
+                    "typeID": "Paragraph",
+                    "zOrder": "21",
+                    "w": "495",
+                    "h": "197",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "666",
+                    "properties": {
+                        "text": "* Worked as Full Stack Developer in HRIS Module Team using *Java Servlet*, *Velocity* template manager, with *Jquery CSS and HTML*\n* Along with HRIS tasks, started Exploring DevOps tools *Jenkins* and *SonarQube*, did POC and made deployment ready for *Docker*, deployed through *Azure*\n* Write a pre-commit hook for *Mercurial* and *Git* based repositories in *python* and *Shell Scripts* to maintaining code quality.\n* *Projects*\n\n\n\n\n ",
+                        "size": "16"
+                    }
+                },
+                {
+                    "ID": "46",
+                    "typeID": "Paragraph",
+                    "zOrder": "22",
+                    "w": "494",
+                    "h": "123",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "139",
+                    "y": "523",
+                    "properties": {
+                        "text": "* Working on and understanding Microservices and its Problems.\n* Using *TDD* to develop *Spring Boot* based Microservices and deploying on *Azure K8s Clusters*, using *Helm* chart config and *Kubernetes*.\n* Deploy Scoold Q&A platform for CatalystOne.\n\n",
+                        "size": "16"
+                    }
+                },
+                {
+                    "ID": "48",
+                    "typeID": "Paragraph",
+                    "zOrder": "23",
+                    "w": "495",
+                    "h": "106",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "163",
+                    "y": "872",
+                    "properties": {
+                        "text": "* Migrate application from Ant +IVY to *Gradle*\n* Migrate application from Java8 to OpenJDK 11\n* *Reskinning of Product*, UI components, Design\n* *Improve application performance* find and improve legacy code.",
+                        "size": "16"
+                    }
+                },
+                {
+                    "ID": "51",
+                    "typeID": "VRule",
+                    "zOrder": "24",
+                    "h": "744",
+                    "measuredW": "10",
+                    "measuredH": "100",
+                    "x": "102",
+                    "y": "521"
+                },
+                {
+                    "ID": "55",
+                    "typeID": "Image",
+                    "zOrder": "25",
+                    "w": "25",
+                    "h": "24",
+                    "measuredW": "69.975",
+                    "measuredH": "66.375",
+                    "x": "93",
+                    "y": "497",
+                    "properties": {
+                        "src": {
+                            "ID": "CEB2ACBC-CD4B-49F2-92DA-C63C25AEF50A"
+                        },
+                        "rotation": "270",
+                        "filter": "true",
+                        "crop": "363,335,311,295"
+                    }
+                },
+                {
+                    "ID": "57",
+                    "typeID": "Image",
+                    "zOrder": "26",
+                    "w": "25",
+                    "h": "24",
+                    "measuredW": "69.975",
+                    "measuredH": "66.375",
+                    "x": "94",
+                    "y": "646",
+                    "properties": {
+                        "src": {
+                            "ID": "CEB2ACBC-CD4B-49F2-92DA-C63C25AEF50A"
+                        },
+                        "rotation": "270",
+                        "filter": "true",
+                        "crop": "363,335,311,295"
+                    }
+                },
+                {
+                    "ID": "73",
+                    "typeID": "Image",
+                    "zOrder": "27",
+                    "w": "25",
+                    "h": "24",
+                    "measuredW": "69.975",
+                    "measuredH": "66.375",
+                    "x": "94",
+                    "y": "1101",
+                    "properties": {
+                        "src": {
+                            "ID": "CEB2ACBC-CD4B-49F2-92DA-C63C25AEF50A"
+                        },
+                        "rotation": "270",
+                        "filter": "true",
+                        "crop": "363,335,311,295"
+                    }
+                },
+                {
+                    "ID": "74",
+                    "typeID": "Paragraph",
+                    "zOrder": "28",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "1100",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:red}_Associate Software Developer (01/2016 - 05/2018)_{color}"
+                    }
+                },
+                {
+                    "ID": "75",
+                    "typeID": "Paragraph",
+                    "zOrder": "29",
+                    "w": "495",
+                    "h": "115",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "1133",
+                    "properties": {
+                        "text": "* Worked as Full Stack Developer in HRIS Module Team. Followed Agile framework to structure our work.\n* Worked on a lot many HRIS Tasks.\n* Built a complex Feature _Multiple Role Profile_ in HRIS Module.\n* Improved performance of the _Export feature_.\n* Development  of a new Module _Absence Manager_\n\n\n\n\n\n\n ",
+                        "size": "16"
+                    }
+                },
+                {
+                    "ID": "76",
+                    "typeID": "Paragraph",
+                    "zOrder": "30",
+                    "w": "495",
+                    "h": "118",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "966",
+                    "properties": {
+                        "size": "16",
+                        "text": "* As DevOps Engineer, made monolith application Dockerized.\n* Migrated a monolith from the hg-based repository to the git-based repository.\n* Designed Local Development Environment for microservices (Monolith + UI +Services)\n* Started with microservices development with *Spring Boot*."
+                    }
+                },
+                {
+                    "ID": "77",
+                    "typeID": "Image",
+                    "zOrder": "31",
+                    "w": "25",
+                    "h": "24",
+                    "measuredW": "69.975",
+                    "measuredH": "66.375",
+                    "x": "94",
+                    "y": "1261",
+                    "properties": {
+                        "src": {
+                            "ID": "CEB2ACBC-CD4B-49F2-92DA-C63C25AEF50A"
+                        },
+                        "rotation": "270",
+                        "filter": "true",
+                        "crop": "363,335,311,295"
+                    }
+                },
+                {
+                    "ID": "78",
+                    "typeID": "Paragraph",
+                    "zOrder": "32",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "1261",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:red}_Kick start (10/2015 - 01/2016)_{color}"
+                    }
+                },
+                {
+                    "ID": "79",
+                    "typeID": "Paragraph",
+                    "zOrder": "33",
+                    "w": "495",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "140",
+                    "y": "1289",
+                    "properties": {
+                        "size": "16",
+                        "text": "* Worked on Practice R&R Module for CatalystOne.\n"
+                    }
+                },
+                {
+                    "ID": "80",
+                    "typeID": "Image",
+                    "zOrder": "34",
+                    "w": "25",
+                    "h": "24",
+                    "measuredW": "69.975",
+                    "measuredH": "66.375",
+                    "x": "94",
+                    "y": "1374",
+                    "properties": {
+                        "src": {
+                            "ID": "CEB2ACBC-CD4B-49F2-92DA-C63C25AEF50A"
+                        },
+                        "rotation": "270",
+                        "filter": "true",
+                        "crop": "363,335,311,295"
+                    }
+                },
+                {
+                    "ID": "81",
+                    "typeID": "Paragraph",
+                    "zOrder": "35",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "138",
+                    "y": "1373",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:red}_Intern (06/2015 - 10/2016)_{color}"
+                    }
+                },
+                {
+                    "ID": "82",
+                    "typeID": "Paragraph",
+                    "zOrder": "36",
+                    "w": "495",
+                    "h": "69",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "138",
+                    "y": "1398",
+                    "properties": {
+                        "size": "16",
+                        "text": "* Worked as Intern as PHP Developer, worked on Core PHP and *Yii* Framework.\n* Developed and maintained projects. "
+                    }
+                },
+                {
+                    "ID": "83",
+                    "typeID": "Paragraph",
+                    "zOrder": "37",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "137",
+                    "y": "1332",
+                    "properties": {
+                        "size": "24",
+                        "underline": "true",
+                        "text": "[Excel Edunet](https://www.exceledunet.com/)"
+                    }
+                },
+                {
+                    "ID": "84",
+                    "typeID": "Image",
+                    "zOrder": "38",
+                    "w": "33",
+                    "h": "30",
+                    "measuredW": "225",
+                    "measuredH": "225",
+                    "x": "93",
+                    "y": "1330",
+                    "properties": {
+                        "src": {
+                            "ID": "E183D381-FBE6-45B6-8C8E-DF795C85105F"
+                        }
+                    }
+                },
+                {
+                    "ID": "86",
+                    "typeID": "Image",
+                    "zOrder": "39",
+                    "w": "44",
+                    "h": "39",
+                    "measuredW": "351",
+                    "measuredH": "327",
+                    "x": "684",
+                    "y": "453",
+                    "properties": {
+                        "src": {
+                            "ID": "AFA7DACE-B219-497D-AF18-4FEAE3FB1501"
+                        },
+                        "filter": "true"
+                    }
+                },
+                {
+                    "ID": "88",
+                    "typeID": "Paragraph",
+                    "zOrder": "40",
+                    "w": "502",
+                    "h": "25",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "456",
+                    "properties": {
+                        "size": "24",
+                        "underline": "true",
+                        "text": "[Skills]"
+                    }
+                },
+                {
+                    "ID": "90",
+                    "typeID": "Paragraph",
+                    "zOrder": "41",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "505",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Languages_{color}"
+                    }
+                },
+                {
+                    "ID": "91",
+                    "typeID": "Paragraph",
+                    "zOrder": "42",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "531",
+                    "properties": {
+                        "size": "16",
+                        "text": "JAVA (1.7, 8, 11), JavaScript, PHP, Python, Typescript"
+                    }
+                },
+                {
+                    "ID": "92",
+                    "typeID": "Image",
+                    "zOrder": "43",
+                    "w": "47",
+                    "h": "43",
+                    "measuredW": "101",
+                    "measuredH": "101",
+                    "x": "678",
+                    "y": "511",
+                    "properties": {
+                        "src": {
+                            "ID": "5039FFC4-02AB-4D54-9564-78AE733D158F"
+                        },
+                        "filter": "true"
+                    }
+                },
+                {
+                    "ID": "93",
+                    "typeID": "Image",
+                    "zOrder": "44",
+                    "w": "39",
+                    "h": "32",
+                    "measuredW": "50",
+                    "measuredH": "45",
+                    "x": "682",
+                    "y": "566",
+                    "properties": {
+                        "src": {
+                            "ID": "937FC495-0E24-44DF-AE4F-5B65BECA565D"
+                        },
+                        "filter": "true"
+                    }
+                },
+                {
+                    "ID": "94",
+                    "typeID": "Paragraph",
+                    "zOrder": "45",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "560",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Markup Languages And Template Engines_{color}\n"
+                    }
+                },
+                {
+                    "ID": "95",
+                    "typeID": "Paragraph",
+                    "zOrder": "46",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "587",
+                    "properties": {
+                        "size": "16",
+                        "text": "HTML, Apache Velocity, Express, Mustache "
+                    }
+                },
+                {
+                    "ID": "96",
+                    "typeID": "Paragraph",
+                    "zOrder": "47",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "618",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Frameworks_{color}"
+                    }
+                },
+                {
+                    "ID": "97",
+                    "typeID": "Image",
+                    "zOrder": "48",
+                    "w": "45",
+                    "h": "40",
+                    "measuredW": "50",
+                    "measuredH": "45",
+                    "x": "677",
+                    "y": "622",
+                    "properties": {
+                        "src": {
+                            "ID": "507FF96F-CF54-4E5F-B161-B30E87755AD2"
+                        },
+                        "filter": "true"
+                    }
+                },
+                {
+                    "ID": "98",
+                    "typeID": "Paragraph",
+                    "zOrder": "49",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "646",
+                    "properties": {
+                        "size": "16",
+                        "text": "Spring Framework (Spring Boot), Angular 4, JQuery "
+                    }
+                },
+                {
+                    "ID": "99",
+                    "typeID": "Paragraph",
+                    "zOrder": "50",
+                    "w": "502",
+                    "h": "20",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "679",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Design patterns and Methodologies Tools_{color}"
+                    }
+                },
+                {
+                    "ID": "101",
+                    "typeID": "Image",
+                    "zOrder": "51",
+                    "w": "40",
+                    "h": "36",
+                    "measuredW": "46",
+                    "measuredH": "43",
+                    "x": "680",
+                    "y": "679",
+                    "properties": {
+                        "src": {
+                            "ID": "64217196-9141-43F9-959E-02BC2C13E5FC"
+                        },
+                        "filter": "true"
+                    }
+                },
+                {
+                    "ID": "102",
+                    "typeID": "Paragraph",
+                    "zOrder": "52",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "709",
+                    "properties": {
+                        "size": "16",
+                        "text": "OOP, SOLID, Agile, Jira, Confluence, Crucible"
+                    }
+                },
+                {
+                    "ID": "103",
+                    "typeID": "Paragraph",
+                    "zOrder": "53",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "730",
+                    "y": "751",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_TDD, Build Tool and Continuous Integration_{color}"
+                    }
+                },
+                {
+                    "ID": "106",
+                    "typeID": "Image",
+                    "zOrder": "54",
+                    "w": "40",
+                    "h": "40",
+                    "measuredW": "50",
+                    "measuredH": "49",
+                    "x": "678",
+                    "y": "746",
+                    "properties": {
+                        "src": {
+                            "ID": "64AA8E68-06E9-4CCD-B1A2-5E45CBC2AFCA"
+                        },
+                        "filter": "true"
+                    }
+                },
+                {
+                    "ID": "107",
+                    "typeID": "Paragraph",
+                    "zOrder": "55",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "780",
+                    "properties": {
+                        "size": "16",
+                        "text": "JUnit, Jenkins CI, SonarQube, Maven, Gradle, Git, Hg"
+                    }
+                },
+                {
+                    "ID": "108",
+                    "typeID": "Image",
+                    "zOrder": "56",
+                    "w": "40",
+                    "h": "38",
+                    "measuredW": "40",
+                    "measuredH": "42",
+                    "x": "678",
+                    "y": "814",
+                    "properties": {
+                        "src": {
+                            "ID": "36D69A2D-7545-466E-BE1C-4DFA9C4A4EA2"
+                        }
+                    }
+                },
+                {
+                    "ID": "110",
+                    "typeID": "Paragraph",
+                    "zOrder": "57",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "730",
+                    "y": "817",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Databases_{color}"
+                    }
+                },
+                {
+                    "ID": "111",
+                    "typeID": "Paragraph",
+                    "zOrder": "58",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "847",
+                    "properties": {
+                        "size": "16",
+                        "text": "My SQL, MS SQL, Postgress, MongoDB"
+                    }
+                },
+                {
+                    "ID": "113",
+                    "typeID": "Image",
+                    "zOrder": "59",
+                    "measuredW": "40",
+                    "measuredH": "34",
+                    "x": "678",
+                    "y": "884",
+                    "properties": {
+                        "src": {
+                            "ID": "3859CC27-D285-4CC4-808D-3CFCEAD54D3D"
+                        },
+                        "filter": "true"
+                    }
+                },
+                {
+                    "ID": "114",
+                    "typeID": "Paragraph",
+                    "zOrder": "60",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "890",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Server and Cloud_{color}"
+                    }
+                },
+                {
+                    "ID": "115",
+                    "typeID": "Paragraph",
+                    "zOrder": "61",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "918",
+                    "properties": {
+                        "size": "16",
+                        "text": "Tomcat, Azure DevOps, Azure, Linux VM"
+                    }
+                },
+                {
+                    "ID": "116",
+                    "typeID": "Image",
+                    "zOrder": "62",
+                    "measuredW": "40",
+                    "measuredH": "33",
+                    "x": "678",
+                    "y": "966",
+                    "properties": {
+                        "src": {
+                            "ID": "79CA1070-9A1E-4D7C-80E1-DBB35D69836A"
+                        }
+                    }
+                },
+                {
+                    "ID": "117",
+                    "typeID": "Paragraph",
+                    "zOrder": "63",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "972",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Education  (06/2011 - 06/2015)_{color}"
+                    }
+                },
+                {
+                    "ID": "118",
+                    "typeID": "Paragraph",
+                    "zOrder": "64",
+                    "w": "494",
+                    "h": "52",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "999",
+                    "properties": {
+                        "size": "16",
+                        "text": "B. Tech Computer Science\nSri Guru Granth Sahib World University"
+                    }
+                },
+                {
+                    "ID": "119",
+                    "typeID": "Image",
+                    "zOrder": "65",
+                    "w": "40",
+                    "h": "30",
+                    "measuredW": "50",
+                    "measuredH": "38",
+                    "x": "678",
+                    "y": "1051",
+                    "properties": {
+                        "src": {
+                            "ID": "45B2DCDC-C5B6-491A-8BB3-34C12C6212CF"
+                        }
+                    }
+                },
+                {
+                    "ID": "120",
+                    "typeID": "Paragraph",
+                    "zOrder": "66",
+                    "w": "502",
+                    "h": "21",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "736",
+                    "y": "1051",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Human Languages_{color}"
+                    }
+                },
+                {
+                    "ID": "121",
+                    "typeID": "Paragraph",
+                    "zOrder": "67",
+                    "w": "494",
+                    "h": "29",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "1081",
+                    "properties": {
+                        "size": "16",
+                        "text": "English, Punjabi, Hindi"
+                    }
+                },
+                {
+                    "ID": "122",
+                    "typeID": "Image",
+                    "zOrder": "68",
+                    "w": "40",
+                    "h": "40",
+                    "measuredW": "107",
+                    "measuredH": "95",
+                    "x": "678",
+                    "y": "1122",
+                    "properties": {
+                        "src": {
+                            "ID": "E2B17CA7-8967-440A-A6CA-9057BF7E22B7"
+                        }
+                    }
+                },
+                {
+                    "ID": "123",
+                    "typeID": "Paragraph",
+                    "zOrder": "69",
+                    "w": "502",
+                    "h": "20",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "736",
+                    "y": "1132",
+                    "properties": {
+                        "size": "18",
+                        "text": "{color:green}_Intrests_{color}"
+                    }
+                },
+                {
+                    "ID": "124",
+                    "typeID": "Paragraph",
+                    "zOrder": "70",
+                    "w": "494",
+                    "h": "66",
+                    "measuredW": "275",
+                    "measuredH": "80",
+                    "x": "734",
+                    "y": "1166",
+                    "properties": {
+                        "size": "16",
+                        "text": "Community contribution, Jazz Suffi Music, Thriller Movies, Solve real-time problems"
+                    }
+                }
+            ]
+        },
+        "attributes": {
+            "name": "New Wireframe 1",
+            "order": 938428.5264654435,
+            "parentID": null
+        },
+        "resourceID": "2278E287-509B-183B-1098-2EC38DDDB7D8",
+        "mockupH": "1327",
+        "mockupW": "1153",
+        "measuredW": "1238",
+        "measuredH": "1467",
+        "version": "1.0"
+    }
+}
